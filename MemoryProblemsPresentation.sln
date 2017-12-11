@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDemo", "BenchmarkD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{DE4B6CB1-F501-454A-BAF8-7315A9FD24C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DE4B6CB1-F501-454A-BAF8-7315A9FD24C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE4B6CB1-F501-454A-BAF8-7315A9FD24C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE4B6CB1-F501-454A-BAF8-7315A9FD24C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
