@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoolImplementation", "PoolI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlerMemoryLeak", "EventHandlerMemoryLeak\EventHandlerMemoryLeak.csproj", "{A56BE833-D6BD-447A-A6F4-910FA1534129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing", "Boxing\Boxing.csproj", "{7DBE186D-76D9-4D23-B44E-6362A6A96CF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A56BE833-D6BD-447A-A6F4-910FA1534129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A56BE833-D6BD-447A-A6F4-910FA1534129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A56BE833-D6BD-447A-A6F4-910FA1534129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBE186D-76D9-4D23-B44E-6362A6A96CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBE186D-76D9-4D23-B44E-6362A6A96CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBE186D-76D9-4D23-B44E-6362A6A96CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBE186D-76D9-4D23-B44E-6362A6A96CF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
