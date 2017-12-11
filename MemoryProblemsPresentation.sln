@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplestPooling", "SimplestPooling\SimplestPooling.csproj", "{0F574479-1449-4721-9859-0E5CF8152C55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D017C423-8B8A-4F9B-B28F-7F5E9856F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F574479-1449-4721-9859-0E5CF8152C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F574479-1449-4721-9859-0E5CF8152C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F574479-1449-4721-9859-0E5CF8152C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F574479-1449-4721-9859-0E5CF8152C55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
