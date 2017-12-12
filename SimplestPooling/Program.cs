@@ -12,11 +12,11 @@ namespace SimplestPooling
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < int.MaxValue; i++)
-            {
-                BenchmarkTest.ConcatStrings("a", "b", "c");
-            }
-            //BenchmarkRunner.Run<BenchmarkTest>();
+            //for (int i = 0; i < int.MaxValue; i++)
+            //{
+            //    BenchmarkTest.ConcatStrings("a", "b", "c");
+            //}
+            BenchmarkRunner.Run<BenchmarkTest>();
         }
     }
 
