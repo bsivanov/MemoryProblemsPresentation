@@ -13,7 +13,7 @@ namespace Boxing
         {
             for (int i = 0; i < 1000000; i++)
             {
-                Trace.WriteLine(string.Format("i = {0}", i.ToString()));
+                Trace.WriteLine(string.Format("i = {0}", i));
             }
         }
     }
