@@ -18,7 +18,7 @@ namespace Lambdas
                 return result;
             }
 
-            result = evaluator();;
+            result = evaluator();
             myCache[key] = result;
             return result;
         }
